@@ -1,0 +1,47 @@
+
+#mainContainer
+{
+	
+	padding-left: 275px;
+	padding-right: 275px;
+		background-color: rgb(173, 216, 230);
+		height: 1000px;
+		width: 800px;
+		background: gray; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(gray, red); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(gray,red); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(gray, red); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(gray, red); /* Standard syntax */
+}
+
+#mainProducts
+{
+	margin: center;
+	padding: center;
+	text-align: center;
+	float: left;
+		height: 1000px;
+		width: 300px;
+		background-color: white;
+		box-shadow: inset 0 0 10px #777777;
+}
+
+#aboutText
+{
+		text-align: center;
+		float: left;
+		background-color: white;
+		height: 1000px;
+		width: 500px;
+		box-shadow: inset 0 0 10px #777777;
+		
+}
+
+
+
+
+
+
+
+
+

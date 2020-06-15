@@ -1,0 +1,137 @@
+i {color: green;}
+p b { color: blue}
+
+
+header
+{
+	margin: 10px;
+	padding: 10px;
+	background-color:LightOrange;
+	height: 200px;
+	border: 2px dashed yellow;
+
+border-style:solid;
+	border-color: red #111111 red
+#111111;
+	border-width: 10px 10px 10px 10px;
+box-shadow:inset 5px red 10px black; }
+
+#mainLogo
+{
+	
+	float: left;
+	background-color:yellow;
+}
+
+#text
+{
+	text-align: center;
+	float: right;
+	width: 1000px;
+	height: 143px;
+	background-color: orange;
+
+cursor: crosshair;
+}
+
+body
+{
+	background-color: orange;
+	margin: 0px;
+	background-image: "C:\Users\katyal agencies\Desktop\wt project\images\bg.jpg";
+  }
+
+nav
+{
+		text-align: center;
+		width: 1000px;
+		float: right;
+		background-color: orange;
+}
+
+#mainContainer
+{
+	
+	padding-left: 275px;
+	padding-right: 275px;
+	background-color: rgb(173, 216, 230);
+	height: 750px;
+	width: 800px;
+	background: gray; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(gray, red); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(gray, red); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(gray, red); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(gray, red); /* Standard syntax */
+}
+
+#mainProducts
+{
+	margin: center;
+	padding: center;
+	text-align: center;
+	float: left;
+	height: 750px;
+	width: 300px;
+	background-color: white;
+	box-shadow: inset 0 0 10px #777777;
+}
+
+#aboutText
+{
+	text-align: center;
+	float: left;
+	background-color: white;
+	height: 750px;
+	width: 500px;
+	box-shadow: inset 0 0 10px #777777;	
+
+cursor: crosshair;	
+}
+
+
+
+
+
+
+
+#footer
+{
+	margin: 10px;
+	padding: 10px;
+	background-color:white;
+	height: 200px;
+	float:right;
+	
+
+
+#text2
+{
+	text-align: center;
+	font-family: "Times new roman";
+	width: 500px;
+	height: 75px;
+	background-color: white;
+	padding: 20px;
+cursor: crosshair;
+
+   
+}
+
+#nav2
+{
+	height: 75;
+	text-align: center;
+		width: 500px;
+		background-color: white ;
+		
+		
+}
+
+#social
+{
+	float: left;
+	background-color:orange;
+	margin: 10px;
+	padding: 10px;
+	
+}

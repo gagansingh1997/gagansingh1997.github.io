@@ -1,0 +1,96 @@
+i {color: green;}
+p b { color: blue}
+
+
+header
+{
+	margin: 10px;
+	padding: 10px;
+	background-color: cyan;
+	height: 200px;
+	border: 2px dashed yellow;
+
+border-style:solid;
+	border-color: red #111111 red
+#111111;
+	border-width: 10px 10px 10px 10px;
+box-shadow:inset 5px red 10px black; }
+
+#mainLogo
+{
+	
+	float: left;
+	background-color: cyan;
+}
+
+#text
+{
+	text-align: center;
+	float: right;
+	width: 1000px;
+	height: 143px;
+	background-color: cyan;
+cursor: crosshair;
+}
+
+body
+{
+	background-color: cyan;
+	margin: 0px;
+	background-image: "C:\Users\katyal agencies\Desktop\wt project\images\bg.jpg";
+  }
+
+nav
+{
+		text-align: center;
+		width: 1000px;
+		float: right;
+		background-color: cyan;
+}
+
+
+
+
+
+
+#footer
+{
+	margin: 10px;
+	padding: 10px;
+	background-color:white;
+	height: 200px;
+	float:right;
+	
+
+
+#text2
+{
+	text-align: center;
+	font-family: "Times new roman";
+	width: 500px;
+	height: 75px;
+	background-color: white;
+	padding: 20px;
+
+
+   
+}
+
+#nav2
+{
+	height: 75;
+	text-align: center;
+		width: 500px;
+		background-color: white ;
+		
+		
+}
+
+#social
+{
+	float: left;
+	background-color:cyan;
+	margin: 10px;
+	padding: 10px;
+	
+}
